@@ -34,6 +34,9 @@ public class TestDemo {
 		t.print(arr);
 		
 	}
-		
-}	
+
+	private void sayHello(){
+		System.out.println("hello git");
+	}
+}
 
